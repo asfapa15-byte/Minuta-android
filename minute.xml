@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_share"
+        android:title="Trimite"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_copy"
+        android:title="Copiază minuta"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_regenerate"
+        android:title="Regenerează minuta"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_delete"
+        android:title="Șterge ședința"
+        app:showAsAction="never" />
+</menu>

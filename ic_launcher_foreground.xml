@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Notepad sheet -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,30h36a4,4 0,0 1,4 4v40a4,4 0,0 1,-4 4h-36a4,4 0,0 1,-4 -4v-40a4,4 0,0 1,4 -4z" />
+    <!-- Ruled lines -->
+    <path
+        android:fillColor="#9FCFD2"
+        android:pathData="M40,62h28v3h-28zM40,69h20v3h-20z" />
+    <!-- Microphone -->
+    <path
+        android:fillColor="#0B5D63"
+        android:pathData="M54,52c2.2,0 4,-1.8 4,-4v-8c0,-2.2 -1.8,-4 -4,-4s-4,1.8 -4,4v8c0,2.2 1.8,4 4,4zM61,47.5c0,3.9 -3.1,7 -7,7s-7,-3.1 -7,-7h-2c0,4.6 3.4,8.4 8,8.9v2.6h2v-2.6c4.6,-0.5 8,-4.3 8,-8.9z" />
+</vector>
